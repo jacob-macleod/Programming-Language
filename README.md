@@ -1,5 +1,5 @@
 # Programming-Language
-A programming language made in java
+A simple programming language made in java
 
 ## My progress
 * Lexer for mathematical operations - **done**
